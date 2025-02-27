@@ -1,0 +1,20 @@
+name: 📌 Mise à jour automatique du profil
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Met à jour toutes les 12h
+  workflow_dispatch: # Permet de le lancer manuellement
+
+jobs:
+  update-readme:
+    name: Mettre à jour le README
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 Cloner le repo
+        uses: actions/checkout@v3
+
+      - name: 📝 Mettre à jour le README avec les derniers commits
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: "🔄 Mise à jour automatique du README"
