@@ -12,3 +12,7 @@
 ### 🐍 Mon graphe de contributions 
 ![snake gif](https://github.com/TEMGOUAemmauelle/TEMGOUAemmauelle/blob/output/github-contribution-grid-snake.svg)
 
+### 📝 Derniers articles sur Medium :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
