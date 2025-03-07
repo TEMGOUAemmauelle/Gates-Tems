@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" align="center"/>
 
 ### 🔥 Une animation 3D stylée  
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" align="center"/>
+<img src="https://api.readyplayer.me/v1/portal/snap-station/gallery/67caffff033f71b4eb3f25bb/portrait" width="500" align="center"/>
 
 
 
