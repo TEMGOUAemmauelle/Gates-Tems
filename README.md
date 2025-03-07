@@ -23,7 +23,8 @@
 ---
 
 ### 🐍 Mon graphe de contributions 
-![snake gif](https://github.com/TEMGOUAemmauelle/TEMGOUAemmauelle/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/TEMGOUAemmauelle/TEMGOUAemmauelle/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
