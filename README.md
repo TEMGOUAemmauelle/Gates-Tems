@@ -4,6 +4,9 @@
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" align="center"/>
 
+### 🌆 Mon activité GitHub en 3D  
+[![GitHub Skyline](https://skyline.github.com/TEMGOUAemmauelle/2024)](https://skyline.github.com/TEMGOUAemmauelle/2024)
+
 ---
 
 ### 📞 Comment me contacter ?
