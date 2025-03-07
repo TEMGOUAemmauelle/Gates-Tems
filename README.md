@@ -4,15 +4,10 @@
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" align="center"/>
 
-### 🌆 Mon activité GitHub en 3D  
-[![GitHub Skyline](https://skyline.github.com/TEMGOUAemmauelle/2024)](https://skyline.github.com/TEMGOUAemmauelle/2024)
 
 ### ⚡ Animation stylée  
 <img src="https://raw.githubusercontent.com/MatthiasScholz/github-animated-svg/main/github-animated.svg" width="100%">
 
----
-### 👋 Salut, moi c'est Gates Tems !
-![wave](https://raw.githubusercontent.com/TEMGOUAemmauelle/TEMGOUAemmauelle/main/wave.gif)
 
 
 ### 📞 Comment me contacter ?
