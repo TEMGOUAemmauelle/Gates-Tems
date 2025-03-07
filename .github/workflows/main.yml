@@ -2,7 +2,7 @@ name: Generate Snake Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *" # S'exécute une fois par jour
+    - cron: "0 0 * * *" # Exécute tous les jours à minuit
   workflow_dispatch: # Permet d'exécuter manuellement
 
 jobs:
@@ -11,12 +11,14 @@ jobs:
     steps:
       - name: Checkout du repo
         uses: actions/checkout@v2
+
       - name: Générer le graphe Snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
+
       - name: Commit et Push
         run: |
           git config --global user.name "GitHub Actions"
