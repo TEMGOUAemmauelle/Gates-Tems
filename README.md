@@ -4,9 +4,8 @@
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" align="center"/>
 
-
-### ⚡ Animation stylée  
-<img src="https://raw.githubusercontent.com/MatthiasScholz/github-animated-svg/main/github-animated.svg" width="100%">
+### 🔥 Une animation 3D stylée  
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" align="center"/>
 
 
 
