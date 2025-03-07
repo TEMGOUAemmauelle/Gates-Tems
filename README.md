@@ -7,7 +7,13 @@
 ### 🌆 Mon activité GitHub en 3D  
 [![GitHub Skyline](https://skyline.github.com/TEMGOUAemmauelle/2024)](https://skyline.github.com/TEMGOUAemmauelle/2024)
 
+### ⚡ Animation stylée  
+<img src="https://raw.githubusercontent.com/MatthiasScholz/github-animated-svg/main/github-animated.svg" width="100%">
+
 ---
+### 👋 Salut, moi c'est Gates Tems !
+![wave](https://raw.githubusercontent.com/TEMGOUAemmauelle/TEMGOUAemmauelle/main/wave.gif)
+
 
 ### 📞 Comment me contacter ?
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:temgouguethe@gmail.com)
