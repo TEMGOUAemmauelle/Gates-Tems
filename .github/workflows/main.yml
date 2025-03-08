@@ -2,7 +2,7 @@ name: Generate Snake Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Exécute tous les jours à minuit
+    - cron: "0 0 * * *"  # Exécute une fois par jour
 
   workflow_dispatch:
 
@@ -25,4 +25,6 @@ jobs:
           git config --global user.email "github-actions@github.com"
           git add github-contribution-grid-snake.svg
           git commit -m "Mise à jour du graphe Snake" || exit 0
-          git push https://TEMGOUAemmauelle:${{ secrets.PAT }}@github.com/${{ github.repository }}.git HEAD:main
+          git push https://github.com/${{ github.repository }}.git HEAD:main
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }}
