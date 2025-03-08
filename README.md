@@ -7,6 +7,9 @@
 </p>
 
 ---
+## 🎯 **Qui suis-je ?**  
+👨‍💻 **Full Stack Developer** & **System Administrator** passionné par la **Cybersécurité** et les **technologies innovantes**.  
+🔎 Je suis toujours en train d’explorer de **nouvelles stacks** et de **bidouiller du code**.  
 
 ## 🔥 Arsenal Technologique 🚀  
 
