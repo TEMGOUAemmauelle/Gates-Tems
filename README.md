@@ -71,9 +71,9 @@
 
 ## 🎉 Fun Fact  
 💡 **Quand je ne code pas, je fais quoi ?**  
-- 🎮 **Je joue aux jeux vidéo**  
-- 🎧 **J’écoute du bon son (Rock, Electro, Hip-Hop)**  
-- 📚 **Je lis des bouquins tech & cyber**  
+- 🎮 **Je joue aux jeux**  
+- 🎧 **J’écoute du bon son (Blue, Jazz, Hip-Hop)**  
+- 📚 **Je regarde des video tech & cyber**  
 
 ---
 
