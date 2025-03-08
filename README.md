@@ -30,10 +30,29 @@
 ![Snake animation](https://github.com/TEMGOUAemmauelle/TEMGOUAemmauelle/blob/output/github-contribution-grid-snake.svg)
 
 ### 🔥 Arsenal Technologique  
+## 🔥 Arsenal Technologique  
 
-🔹 **Administration systeme** : Kali Linux, Metasploit, Snort, Wireshark, Nmap, Active Directory, Graylog, Docker
-🔹 **Développement** : Angular, Laravel, Django, ThreeJs, NextJs, Figma
+### 🖥️ Administration Système  
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snort-E44D26?style=for-the-badge&logo=snort&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-007ACC?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4A90E2?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Graylog-5F5F5F?style=for-the-badge&logo=graylog&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>  
 
+### 💻 Développement  
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>  
 ---
 
 ### 🚀 Projets Récents  
