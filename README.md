@@ -23,22 +23,28 @@
 
 ### 🚀 À propos de moi
 
-<div style="float: right;">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlkMGk3aWZ5OWtkb3lpY21temdmZHptMjU1cThxZ3V0dnI1OGIzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animation" width="200" />
+<div style="display: grid; grid-template-columns: 1fr 2fr; gap: 20px; align-items: center;">
+  <!-- Image à gauche -->
+  <div>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlkMGk3aWZ5OWtkb3lpY21temdmZHptMjU1cThxZ3V0dnI1OGIzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animation" style="width: 100%; max-width: 200px; border-radius: 10px;" />
+  </div>
+
+  <!-- Texte à droite -->
+  <div>
+    Je suis un développeur passionné de logiciels, originaire du Cameroun 🇨🇲, avec une expertise en développement Full Stack et en administration système.
+
+    🔭 **Je travaille actuellement sur** :  
+    - Un système de nettoyage interne du PC.  
+
+    🌱 **J'apprends actuellement** :  
+    - Docker, Kubernetes et les réseaux SDN pour la résilience des systèmes conteneurisés.  
+    - AWS pour le déploiement et la gestion de services cloud.  
+
+    💬 **Demandez-moi** :  
+    - Node.js, React, Angular, Laravel... ou tout autre sujet lié à la tech !  
+
+  </div>
 </div>
-
-Je suis un développeur passionné de logiciels, originaire du Cameroun 🇨🇲, avec une expertise en développement Full Stack et en administration système.
-
-🔭 **Je travaille actuellement sur** :  
-- Un système de nettoyage interne du PC.  
-
-🌱 **J'apprends actuellement** :  
-- Docker, Kubernetes et les réseaux SDN pour la résilience des systèmes conteneurisés.  
-- AWS pour le déploiement et la gestion de services cloud.  
-
-💬 **Demandez-moi** :  
-- Node.js, React, Angular, Laravel... ou tout autre sujet lié à la tech !  
-
 
 ## 🛠️ Mes compétences
 
@@ -137,7 +143,4 @@ Mon serpent grandit au fur et à mesure des jours, à chaque commit et contribut
 <p align="center">
   <img src="https://github.com/TEMGOUAemmauelle/TEMGOUAemmauelle/blob/output/.github/snake/github-contribution-grid-snake.svg"/>
 </p>
-
-
-
-
+  <img src="https://camo.githubusercontent.com/3529d711e7d8d39bdd3ca3b2bdeb5cc34a276864caf528399b70c2b27d8ddabe/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426637573746f6d436f6c6f724c6973743d31342c31322c31332c31362c3230266865696768743d3137302673656374696f6e3d666f6f746572">
