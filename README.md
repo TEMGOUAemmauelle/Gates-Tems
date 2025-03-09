@@ -14,7 +14,7 @@
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
-<a href="https://git.io/typing-svg"><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=F731CB&multiline=true&repeat=false&width=435&lines=Développeur+Full+Stack+et+SysAdmin;Passionné+par+la+tech+et+la+cybersécurité;Toujours+à+la+recherche+de+nouveaux+défis" alt="Typing SVG" /></a>
 
 Je suis un développeur passionné de logiciels, originaire du Cameroun 🇨🇲, avec une expertise en développement Full Stack et en administration système. J'aime résoudre des problèmes complexes et créer des solutions innovantes.
 
@@ -77,7 +77,9 @@ class TechWizard:
 ```
 
 </td>
+<td><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%></td>
 </tr>
+
 </table>
 
 ## 📞 Comment me contacter ?  
@@ -114,7 +116,13 @@ class TechWizard:
   <img src="https://streak-stats.demolab.com/?user=TEMGOUAemmauelle&theme=tokyonight" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEMGOUAemmauelle&layout=compact&theme=tokyonight" height="180em"/>
 </p>
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TEMGOUAemmauelle&bg_color=0d1117&color=FF6B00&line=FFB300&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
 
+<!-- Trophy -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TEMGOUAemmauelle&theme=juicyfresh&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy" />
+</div>
 
 ![Graphique de Contributions](https://github-readme-stats.vercel.app/api?username=TEMGOUAemmauelle&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true)
 ---
