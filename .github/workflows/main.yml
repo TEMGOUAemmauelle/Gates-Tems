@@ -23,20 +23,23 @@ jobs:
             git push -u origin output
           fi
 
+      - name: Créer un dossier de sortie
+        run: mkdir -p .github/snake
+
       - name: Générer le graphe Snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: svg
+          outputs: .github/snake/github-contribution-grid-snake.svg  # Spécification du chemin
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Vérifier si le fichier a été généré
         run: |
-          if [ -f "github-contribution-grid-snake.svg" ]; then
-            echo "Fichier trouvé : github-contribution-grid-snake.svg"
+          if [ -f ".github/snake/github-contribution-grid-snake.svg" ]; then
+            echo "✅ Fichier généré avec succès"
           else
-            echo "❌ ERREUR : Le fichier github-contribution-grid-snake.svg n'a pas été généré !"
+            echo "❌ ERREUR : Le fichier n'a pas été généré !"
             exit 1
           fi
 
@@ -45,7 +48,7 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "github-actions@github.com"
           
-          git add github-contribution-grid-snake.svg
+          git add .github/snake/github-contribution-grid-snake.svg
           git commit -m "Mise à jour du graphe Snake" || echo "Aucun changement à committer"
           git push origin output
         env:
