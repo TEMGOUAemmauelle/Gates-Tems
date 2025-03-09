@@ -2,24 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,12,13,16,20&height=300&section=header&text=🤖%20Gates%20Tems%20🤖&fontSize=90&animation=fadeIn" alt="Gates Tems Animation" width="1000"/>
 </p>
 
-# Salut ! Je suis 🐘 Emmanuelle TEMGOUA, mais vous pouvez m'appeler Gates Tems ! 🚀  
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A41C&center=true&vCenter=true&width=600&lines=🚀+Bienvenue+sur+mon+GitHub+!;🌍+Développeur+Full+Stack+et+SysAdmin;💡+Passionné+de+Tech+%26+Cybersécurité) 
-
----
-
-## 📞 Comment me contacter ?  
-<p align="center">
-  <a href="mailto:temgouguethe@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/emmanuelle-guethe-fobanke-temgoua-8346252b1">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/TEMGOUAemmauelle">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
 
 <div align="center">
 
@@ -27,9 +10,9 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=TEMGOUAemmauelle&color=blueviolet)](https://github.com/TEMGOUAemmauelle)
 </div>
 
-## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> À propos de moi
+## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 8.5%> À propos de moi
 
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=60%>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=F731CB&multiline=true&repeat=false&width=435&lines=Développeur+Full+Stack+et+SysAdmin;Passionné+par+la+tech+et+la+cybersécurité;Toujours+à+la+recherche+de+nouveaux+défis" alt="Typing SVG" /></a>
 
@@ -97,6 +80,18 @@ class TechWizard:
 </tr>
 </table>
 
+## 📞 Comment me contacter ?  
+<p align="center">
+  <a href="mailto:temgouguethe@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/emmanuelle-guethe-fobanke-temgoua-8346252b1">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/TEMGOUAemmauelle">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 ## 🛠️ Mes compétences
 
 <div align="center">
