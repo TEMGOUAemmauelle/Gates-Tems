@@ -1,8 +1,17 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,12,13,16,20&height=300&section=header&text=🤖%20Gates%20Tems%20🤖&fontSize=90&animation=fadeIn" alt="Gates Tems Animation" width="1000"/>
 </p>
+## 🐍 Mon graphe de contributions  
+<p align="center">
+  <img src="https://github.com/TEMGOUAemmauelle/TEMGOUAemmauelle/blob/output/.github/snake/github-contribution-grid-snake.svg"/>
+</p>
 
+**Voici comment je progresse !** 🌟  
+Mon serpent grandit au fur et à mesure des jours, à chaque commit et contribution. Suivez ma progression !
 
+**Mon objectif :**  
+- Plus de commits chaque jour !  
+- Un serpent plus long et plus coloré ! 🐍🎮
 
 <div align="center">
 
@@ -77,7 +86,7 @@ class TechWizard:
 ```
 
 </td>
-<td><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%></td>
+<td><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=70%></td>
 </tr>
 
 </table>
@@ -124,19 +133,7 @@ class TechWizard:
   <img src="https://github-profile-trophy.vercel.app/?username=TEMGOUAemmauelle&theme=juicyfresh&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy" />
 </div>
 
-![Graphique de Contributions](https://github-readme-stats.vercel.app/api?username=TEMGOUAemmauelle&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true)
 ---
-## 🐍 Mon graphe de contributions  
-<p align="center">
-  <img src="https://github.com/TEMGOUAemmauelle/TEMGOUAemmauelle/blob/output/.github/snake/github-contribution-grid-snake.svg"/>
-</p>
-
-**Voici comment je progresse !** 🌟  
-Mon serpent grandit au fur et à mesure des jours, à chaque commit et contribution. Suivez ma progression !
-
-**Mon objectif :**  
-- Plus de commits chaque jour !  
-- Un serpent plus long et plus coloré ! 🐍🎮
 
 [✨ Découvrez mon activité sur GitHub !](https://github.com/TEMGOUAemmauelle)
 ---
