@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="800"/>
 </p>
+
 # Salut ! Je suis 🐘 Emmanuelle TEMGOUA, mais vous pouvez m'appeler Gates Tems ! 🚀  
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A41C&center=true&vCenter=true&width=600&lines=🚀+Bienvenue+sur+mon+GitHub+!;🌍+Développeur+Full+Stack+et+SysAdmin;💡+Passionné+de+Tech+%26+Cybersécurité) 
@@ -18,7 +19,17 @@
 <p align="center">
   <img src="https://github.com/TEMGOUAemmauelle/TEMGOUAemmauelle/blob/output/.github/snake/github-contribution-grid-snake.svg"/>
 </p>
+
+**Voici comment je progresse !** 🌟  
+Mon serpent grandit au fur et à mesure des jours, à chaque commit et contribution. Suivez ma progression !
+
+**Mon objectif :**  
+- Plus de commits chaque jour !  
+- Un serpent plus long et plus coloré ! 🐍🎮
+
+[✨ Découvrez mon activité sur GitHub !](https://github.com/TEMGOUAemmauelle)
 ---
+
 ## 🚀 Projets Récents  
 
 📌 **Mise en Place d'un Système de Messagerie Sécurisé**  
@@ -74,15 +85,7 @@
 <p align="center">
   <img src="https://github.com/TEMGOUAemmauelle/TEMGOUAemmauelle/blob/output/.github/snake/github-contribution-grid-snake.svg"/>
 </p>
-**Voici comment je progresse !** 🌟  
-Mon serpent grandit au fur et à mesure des jours, à chaque commit et contribution. Suivez ma progression !
 
-**Mon objectif :**  
-- Plus de commits chaque jour !  
-- Un serpent plus long et plus coloré ! 🐍🎮
-
-[✨ Découvrez mon activité sur GitHub !](https://github.com/TEMGOUAemmauelle)
----
 
 ## 📞 Comment me contacter ?  
 <p align="center">
