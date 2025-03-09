@@ -12,9 +12,9 @@
 
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 8.5%> À propos de moi
 
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=60%>
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=F731CB&multiline=true&repeat=false&width=435&lines=Développeur+Full+Stack+et+SysAdmin;Passionné+par+la+tech+et+la+cybersécurité;Toujours+à+la+recherche+de+nouveaux+défis" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%></a>
 
 Je suis un développeur passionné de logiciels, originaire du Cameroun 🇨🇲, avec une expertise en développement Full Stack et en administration système. J'aime résoudre des problèmes complexes et créer des solutions innovantes.
 
