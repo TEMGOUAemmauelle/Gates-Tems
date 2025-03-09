@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://camo.githubusercontent.com/2f69551de12bc0f27c75614df920dec2a4d7adfc02d6cdcbed9b8c9ad7947fd8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426637573746f6d436f6c6f724c6973743d31342c31322c31332c31362c3230266865696768743d3330302673656374696f6e3d68656164657226746578743d25463025394625413625384125323054696765722d466f787825323025463025394625413625384126666f6e7453697a653d393026616e696d6174696f6e3d66616465496e" alt="Gates Tems Animation" width="700"/>
+  ![Profile Views](https://komarev.com/ghpvc/?username=TEMGOUAemmauelle&color=brightgreen)
+</p>
+<p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZtbGVrZWUwMjJlbnpraGxwNmQ2Mmw1enN4ejc5anRuNzZ1OTc1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" width="700"/>
 </p>
 
@@ -98,4 +102,4 @@ Mon serpent grandit au fur et à mesure des jours, à chaque commit et contribut
   </a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=TEMGOUAemmauelle&color=brightgreen)
+
