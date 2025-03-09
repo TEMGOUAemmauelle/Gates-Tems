@@ -34,6 +34,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: .github/snake/github-contribution-grid-snake.svg
+          color_snake: "#00FF00"  # Vert néon
+          color_dots: "#FF00FF, #0000FF, #FFFF00"  # Dégradé rose, bleu, jaune
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
