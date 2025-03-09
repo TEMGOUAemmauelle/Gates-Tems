@@ -13,18 +13,28 @@ jobs:
       - name: Checkout du repo
         uses: actions/checkout@v3
 
+      - name: Vérifier si la branche output existe
+        run: |
+          git fetch origin output || echo "La branche output n'existe pas encore"
+          if git show-ref --verify --quiet refs/remotes/origin/output; then
+            git checkout output
+          else
+            git checkout -b output
+            git push -u origin output
+          fi
+
       - name: Générer le graphe Snake
         uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: github-contribution-grid-snake.svg
 
-      - name: Commit et Push
+      - name: Commit et Push dans la branche output
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "github-actions@github.com"
           git add github-contribution-grid-snake.svg
           git commit -m "Mise à jour du graphe Snake" || exit 0
-          git push https://github.com/${{ github.repository }}.git HEAD:main
+          git push https://x-access-token:${{ secrets.PAT }}@github.com/${{ github.repository }}.git HEAD:output
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }}
