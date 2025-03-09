@@ -1,5 +1,5 @@
-<p align="left">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="800"/>
 </p>
 # Salut ! Je suis 🐘 Emmanuelle TEMGOUA, mais vous pouvez m'appeler Gates Tems ! 🚀  
 
@@ -38,49 +38,50 @@
 
 ### 🖥️ Administration Système  
 <p align="center">
-  <span style="display: inline-block; padding: 10px; border: 2px solid #ddd; border-radius: 10px; margin: 5px; background-color: #f4f4f4;">
-    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  </span>
-  <span style="display: inline-block; padding: 10px; border: 2px solid #ddd; border-radius: 10px; margin: 5px; background-color: #f4f4f4;">
-    <img src="https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white" />
-  </span>
-  <span style="display: inline-block; padding: 10px; border: 2px solid #ddd; border-radius: 10px; margin: 5px; background-color: #f4f4f4;">
-    <img src="https://img.shields.io/badge/Snort-E44D26?style=for-the-badge&logo=snort&logoColor=white" />
-  </span>
-  <span style="display: inline-block; padding: 10px; border: 2px solid #ddd; border-radius: 10px; margin: 5px; background-color: #f4f4f4;">
-    <img src="https://img.shields.io/badge/Wireshark-007ACC?style=for-the-badge&logo=wireshark&logoColor=white" />
-  </span>
-  <span style="display: inline-block; padding: 10px; border: 2px solid #ddd; border-radius: 10px; margin: 5px; background-color: #f4f4f4;">
-    <img src="https://img.shields.io/badge/Nmap-4A90E2?style=for-the-badge&logo=nmap&logoColor=white" />
-  </span>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snort-E44D26?style=for-the-badge&logo=snort&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-007ACC?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4A90E2?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Graylog-5F5F5F?style=for-the-badge&logo=graylog&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>  
 
 ### 💻 Développement  
 <p align="center">
-  <span style="display: inline-block; padding: 10px; border: 2px solid #ddd; border-radius: 10px; margin: 5px; background-color: #f4f4f4;">
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  </span>
-  <span style="display: inline-block; padding: 10px; border: 2px solid #ddd; border-radius: 10px; margin: 5px; background-color: #f4f4f4;">
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  </span>
-  <span style="display: inline-block; padding: 10px; border: 2px solid #ddd; border-radius: 10px; margin: 5px; background-color: #f4f4f4;">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  </span>
-  <span style="display: inline-block; padding: 10px; border: 2px solid #ddd; border-radius: 10px; margin: 5px; background-color: #f4f4f4;">
-    <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
-  </span>
-  <span style="display: inline-block; padding: 10px; border: 2px solid #ddd; border-radius: 10px; margin: 5px; background-color: #f4f4f4;">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  </span>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>  
+---
+
+
 
 ---
+
 ## 🎉 Fun Fact  
 💡 **Quand je ne code pas, je fais quoi ?**  
 - 🎮 **Je joue aux jeux**  
 - 🎧 **J’écoute du bon son (Blue, Jazz, Hip-Hop)**  
 - 📚 **Je regarde des video tech & cyber**  
 
+---
+## 🐍 Mon graphe de contributions  
+<p align="center">
+  <img src="https://github.com/TEMGOUAemmauelle/TEMGOUAemmauelle/blob/output/.github/snake/github-contribution-grid-snake.svg"/>
+</p>
+**Voici comment je progresse !** 🌟  
+Mon serpent grandit au fur et à mesure des jours, à chaque commit et contribution. Suivez ma progression !
+
+**Mon objectif :**  
+- Plus de commits chaque jour !  
+- Un serpent plus long et plus coloré ! 🐍🎮
+
+[✨ Découvrez mon activité sur GitHub !](https://github.com/TEMGOUAemmauelle)
 ---
 
 ## 📞 Comment me contacter ?  
