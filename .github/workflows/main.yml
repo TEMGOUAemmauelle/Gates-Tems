@@ -36,6 +36,7 @@ jobs:
           outputs: .github/snake/github-contribution-grid-snake.svg
           color_snake: "#00FF00"  # Vert néon
           color_dots: "#FF00FF, #0000FF, #FFFF00"  # Dégradé rose, bleu, jaune
+          color_empty: "#000000"  # Noir pour les carreaux sans contributions
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
