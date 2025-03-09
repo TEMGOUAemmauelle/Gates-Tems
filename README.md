@@ -1,7 +1,6 @@
- <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
+<p align="left">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
 </p>
----
 # Salut ! Je suis 🐘 Emmanuelle TEMGOUA, mais vous pouvez m'appeler Gates Tems ! 🚀  
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A41C&center=true&vCenter=true&width=600&lines=🚀+Bienvenue+sur+mon+GitHub+!;🌍+Développeur+Full+Stack+et+SysAdmin;💡+Passionné+de+Tech+%26+Cybersécurité) 
@@ -10,7 +9,6 @@
 
 ## 📊 Mes Statistiques  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TEMGOUAemmauelle&show_icons=true&theme=tokyonight" height="180em"/>
   <img src="https://streak-stats.demolab.com/?user=TEMGOUAemmauelle&theme=tokyonight" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEMGOUAemmauelle&layout=compact&theme=tokyonight" height="180em"/>
 </p>
@@ -40,42 +38,49 @@
 
 ### 🖥️ Administration Système  
 <p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snort-E44D26?style=for-the-badge&logo=snort&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-007ACC?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-4A90E2?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Graylog-5F5F5F?style=for-the-badge&logo=graylog&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <span style="display: inline-block; padding: 10px; border: 2px solid #ddd; border-radius: 10px; margin: 5px; background-color: #f4f4f4;">
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  </span>
+  <span style="display: inline-block; padding: 10px; border: 2px solid #ddd; border-radius: 10px; margin: 5px; background-color: #f4f4f4;">
+    <img src="https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white" />
+  </span>
+  <span style="display: inline-block; padding: 10px; border: 2px solid #ddd; border-radius: 10px; margin: 5px; background-color: #f4f4f4;">
+    <img src="https://img.shields.io/badge/Snort-E44D26?style=for-the-badge&logo=snort&logoColor=white" />
+  </span>
+  <span style="display: inline-block; padding: 10px; border: 2px solid #ddd; border-radius: 10px; margin: 5px; background-color: #f4f4f4;">
+    <img src="https://img.shields.io/badge/Wireshark-007ACC?style=for-the-badge&logo=wireshark&logoColor=white" />
+  </span>
+  <span style="display: inline-block; padding: 10px; border: 2px solid #ddd; border-radius: 10px; margin: 5px; background-color: #f4f4f4;">
+    <img src="https://img.shields.io/badge/Nmap-4A90E2?style=for-the-badge&logo=nmap&logoColor=white" />
+  </span>
 </p>  
 
 ### 💻 Développement  
 <p align="center">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <span style="display: inline-block; padding: 10px; border: 2px solid #ddd; border-radius: 10px; margin: 5px; background-color: #f4f4f4;">
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  </span>
+  <span style="display: inline-block; padding: 10px; border: 2px solid #ddd; border-radius: 10px; margin: 5px; background-color: #f4f4f4;">
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  </span>
+  <span style="display: inline-block; padding: 10px; border: 2px solid #ddd; border-radius: 10px; margin: 5px; background-color: #f4f4f4;">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  </span>
+  <span style="display: inline-block; padding: 10px; border: 2px solid #ddd; border-radius: 10px; margin: 5px; background-color: #f4f4f4;">
+    <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+  </span>
+  <span style="display: inline-block; padding: 10px; border: 2px solid #ddd; border-radius: 10px; margin: 5px; background-color: #f4f4f4;">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  </span>
 </p>  
----
-
-
 
 ---
-
 ## 🎉 Fun Fact  
 💡 **Quand je ne code pas, je fais quoi ?**  
 - 🎮 **Je joue aux jeux**  
 - 🎧 **J’écoute du bon son (Blue, Jazz, Hip-Hop)**  
 - 📚 **Je regarde des video tech & cyber**  
 
----
-## 🐍 Mon graphe de contributions  
-<p align="center">
-  <img src="https://github.com/TEMGOUAemmauelle/TEMGOUAemmauelle/blob/output/.github/snake/github-contribution-grid-snake.svg"/>
-</p>
 ---
 
 ## 📞 Comment me contacter ?  
