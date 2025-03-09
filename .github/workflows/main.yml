@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout du repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Vérifier si la branche output existe
         run: |
@@ -24,17 +24,19 @@ jobs:
           fi
 
       - name: Générer le graphe Snake
-        uses: Platane/snk@master
+        uses: Platane/snk@v3  # Utilisation de la dernière version stable
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: github-contribution-grid-snake.svg  # Correction ici
+          outputs: svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit et Push dans la branche output
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "github-actions@github.com"
-          git add github-contribution-grid-snake.svg
+          git add .  # Ajoute tous les fichiers générés
           git commit -m "Mise à jour du graphe Snake" || exit 0
-          git push https://x-access-token:${{ secrets.PAT }}@github.com/${{ github.repository }}.git HEAD:output
+          git push origin output
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
