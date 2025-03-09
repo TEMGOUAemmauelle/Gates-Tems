@@ -93,6 +93,8 @@ class TechWizard:
     <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+
 ## 🛠️ Mes compétences
 
 <div align="center">
@@ -184,4 +186,4 @@ class TechWizard:
 <p align="center">
   <img src="https://github.com/TEMGOUAemmauelle/TEMGOUAemmauelle/blob/output/.github/snake/github-contribution-grid-snake.svg"/>
 </p>
-  <img src="https://camo.githubusercontent.com/3529d711e7d8d39bdd3ca3b2bdeb5cc34a276864caf528399b70c2b27d8ddabe/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426637573746f6d436f6c6f724c6973743d31342c31322c31332c31362c3230266865696768743d3137302673656374696f6e3d666f6f746572">
+  <img src="https://camo.githubusercontent.com/3529d711e7d8d39bdd3ca3b2bdeb5cc34a276864caf528399b70c2b27d8ddabe/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426637573746f6d436f6c6f724c6973743d31342c31322c31332c31362c3230266865696768743d3137302673656374696f6e3d666f6f746572" width="1000>
