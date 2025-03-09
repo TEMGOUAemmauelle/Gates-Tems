@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,12,13,16,20&height=300&section=header&text=🤖%20Gates%20Tems%20🤖&fontSize=90&animation=fadeIn" alt="Gates Tems Animation" width="900"/>
 </p>
----
-![Profile Views](https://komarev.com/ghpvc/?username=TEMGOUAemmauelle&color=brightgreen)
 
+![Profile Views](https://komarev.com/ghpvc/?username=TEMGOUAemmauelle&color=brightgreen)
+---
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZtbGVrZWUwMjJlbnpraGxwNmQ2Mmw1enN4ejc5anRuNzZ1OTc1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" width="700"/>
 </p>
@@ -36,6 +36,9 @@ Mon serpent grandit au fur et à mesure des jours, à chaque commit et contribut
 
 [✨ Découvrez mon activité sur GitHub !](https://github.com/TEMGOUAemmauelle)
 ---
+# 🚀 Bienvenue sur mon profil GitHub !
+
+![Showcase Skills](https://img.shields.io/badge/-📁%20Showcase%20your%20skills%20on%20your%20GitHub%20or%20resumé%20with%20ease-blue)
 
 ## 🚀 Projets Récents  
 
