@@ -20,12 +20,29 @@
     <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+### 🚀 À propos de moi
 
+<div style="float: right;">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlkMGk3aWZ5OWtkb3lpY21temdmZHptMjU1cThxZ3V0dnI1OGIzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animation" width="200" />
+</div>
+
+Je suis un développeur passionné de logiciels, originaire du Cameroun 🇨🇲, avec une expertise en développement Full Stack et en administration système.
+
+🔭 **Je travaille actuellement sur** :  
+- Un système de messagerie sécurisé pour CAMTEL utilisant Active Directory, Snort et Graylog.  
+- Une plateforme de co-location et de covoiturage avec Angular, Laravel et Next.js.  
+
+🌱 **J'apprends actuellement** :  
+- Docker, Kubernetes et les réseaux SDN pour la résilience des systèmes conteneurisés.  
+- AWS pour le déploiement et la gestion de services cloud.  
+
+💬 **Demandez-moi** :  
+- Node.js, React, Firebase, Angular, Laravel... ou tout autre sujet lié à la tech ! 
 ## 🛠️ Mes compétences
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,django,html,css,vscode,github,figma,laravel,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,graylog,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
 ### All Icons:
