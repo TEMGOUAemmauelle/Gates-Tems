@@ -18,8 +18,7 @@
 Je suis un développeur passionné de logiciels, originaire du Cameroun 🇨🇲, avec une expertise en développement Full Stack et en administration système. J'aime résoudre des problèmes complexes et créer des solutions innovantes.
 
 🔭 **Je travaille actuellement sur** :  
-- Un système de messagerie sécurisé pour CAMTEL utilisant Active Directory, Snort et Graylog.  
-- Une plateforme de co-location et de covoiturage avec Angular, Laravel et Next.js.  
+- Un système de nettoyage interne pour PC  
 
 🌱 **J'apprends actuellement** :  
 - Docker, Kubernetes et les réseaux SDN pour la résilience des systèmes conteneurisés.  
