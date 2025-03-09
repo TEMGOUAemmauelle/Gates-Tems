@@ -14,8 +14,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEMGOUAemmauelle&layout=compact&theme=tokyonight" height="180em"/>
 </p>
 
-![Graphique de Contributions](https://github-readme-stats.vercel.app/api?username=TEMGOUAemmauelle&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
-
+![Graphique de Contributions](https://github-readme-stats.vercel.app/api?username=TEMGOUAemmauelle&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true)
 ---
 ## 🐍 Mon graphe de contributions  
 <p align="center">
