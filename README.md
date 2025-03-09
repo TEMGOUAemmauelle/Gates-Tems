@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="700"/>
-  <img src="https://media.giphy.com/media/1R6k4z7dznMw3hJX6E/giphy.gif" width="700"/>
+  <img src="https://media.giphy.com/media/LMqkUmtRtWxJ1lFZTR/giphy.gif" width="700"/>
+
 </p>
 
 # Salut ! Je suis 🐘 Emmanuelle TEMGOUA, mais vous pouvez m'appeler Gates Tems ! 🚀  
@@ -50,23 +51,23 @@ Mon serpent grandit au fur et à mesure des jours, à chaque commit et contribut
 
 ### 🖥️ Administration Système  
 <p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" width="100" />
-  <img src="https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white" width="100" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" width="200" />
+  <img src="https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white" width="200" />
   <img src="https://img.shields.io/badge/Snort-E44D26?style=for-the-badge&logo=snort&logoColor=white" width="100" />
-  <img src="https://img.shields.io/badge/Wireshark-007ACC?style=for-the-badge&logo=wireshark&logoColor=white" width="100" />
+  <img src="https://img.shields.io/badge/Wireshark-007ACC?style=for-the-badge&logo=wireshark&logoColor=white" width="200" />
   <img src="https://img.shields.io/badge/Nmap-4A90E2?style=for-the-badge&logo=nmap&logoColor=white" width="100" />
-  <img src="https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" width="100" />
+  <img src="https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" width="200" />
   <img src="https://img.shields.io/badge/Graylog-5F5F5F?style=for-the-badge&logo=graylog&logoColor=white" width="100" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" width="100" />
 </p>  
 
 ### 💻 Développement  
 <p align="center">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" width="100" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" width="100" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" width="100" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" width="100" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" width="100" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" width="200" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" width="200" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" width="200" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" width="200" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" width="200" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="100" />
 </p>  
 ---
