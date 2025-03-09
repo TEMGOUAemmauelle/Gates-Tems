@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt9v6vAqzxPrKxe/giphy.gif" width="700"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZtbGVrZWUwMjJlbnpraGxwNmQ2Mmw1enN4ejc5anRuNzZ1OTc1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" width="700"/>
 </p>
 
 # Salut ! Je suis 🐘 Emmanuelle TEMGOUA, mais vous pouvez m'appeler Gates Tems ! 🚀  
