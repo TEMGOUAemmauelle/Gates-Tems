@@ -20,6 +20,7 @@
     <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
 ### 🚀 À propos de moi
 
 <div style="float: right;">
@@ -29,15 +30,16 @@
 Je suis un développeur passionné de logiciels, originaire du Cameroun 🇨🇲, avec une expertise en développement Full Stack et en administration système.
 
 🔭 **Je travaille actuellement sur** :  
-- Un système de messagerie sécurisé pour CAMTEL utilisant Active Directory, Snort et Graylog.  
-- Une plateforme de co-location et de covoiturage avec Angular, Laravel et Next.js.  
+- Un système de mettoyage interne du pc. 
 
 🌱 **J'apprends actuellement** :  
 - Docker, Kubernetes et les réseaux SDN pour la résilience des systèmes conteneurisés.  
 - AWS pour le déploiement et la gestion de services cloud.  
 
 💬 **Demandez-moi** :  
-- Node.js, React, Firebase, Angular, Laravel... ou tout autre sujet lié à la tech ! 
+- Node.js, React, Angular, Laravel... ou tout autre sujet lié à la tech !
+
+  
 ## 🛠️ Mes compétences
 
 <div align="center">
