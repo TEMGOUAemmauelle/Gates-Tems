@@ -30,16 +30,16 @@
 Je suis un développeur passionné de logiciels, originaire du Cameroun 🇨🇲, avec une expertise en développement Full Stack et en administration système.
 
 🔭 **Je travaille actuellement sur** :  
-- Un système de mettoyage interne du pc. 
+- Un système de nettoyage interne du PC.  
 
 🌱 **J'apprends actuellement** :  
 - Docker, Kubernetes et les réseaux SDN pour la résilience des systèmes conteneurisés.  
 - AWS pour le déploiement et la gestion de services cloud.  
 
 💬 **Demandez-moi** :  
-- Node.js, React, Angular, Laravel... ou tout autre sujet lié à la tech !
+- Node.js, React, Angular, Laravel... ou tout autre sujet lié à la tech !  
 
-  
+
 ## 🛠️ Mes compétences
 
 <div align="center">
