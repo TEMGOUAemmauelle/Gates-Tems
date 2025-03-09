@@ -26,7 +26,7 @@
 <div style="display: grid; grid-template-columns: 1fr 2fr; gap: 20px; align-items: center;">
   <!-- Image à gauche -->
   <div>
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlkMGk3aWZ5OWtkb3lpY21temdmZHptMjU1cThxZ3V0dnI1OGIzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animation" style="width: 100%; max-width: 200px; border-radius: 10px;" />
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlkMGk3aWZ5OWtkb3lpY21temdmZHptMjU1cThxZ3V0dnI1OGIzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animation" style="width: 100%; max-width: 100px; border-radius: 10px;" />
   </div>
 
   <!-- Texte à droite -->
