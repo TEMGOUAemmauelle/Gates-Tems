@@ -21,30 +21,81 @@
   </a>
 </p>
 
-### 🚀 À propos de moi
+<div align="center">
 
-<div style="display: grid; grid-template-columns: 1fr 2fr; gap: 20px; align-items: center;">
-  <!-- Image à gauche -->
-  <div>
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlkMGk3aWZ5OWtkb3lpY21temdmZHptMjU1cThxZ3V0dnI1OGIzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animation" style="width: 100%; max-width: 100px; border-radius: 10px;" />
-  </div>
-
-  <!-- Texte à droite -->
-  <div>
-    Je suis un développeur passionné de logiciels, originaire du Cameroun 🇨🇲, avec une expertise en développement Full Stack et en administration système.
-
-    🔭 **Je travaille actuellement sur** :  
-    - Un système de nettoyage interne du PC.  
-
-    🌱 **J'apprends actuellement** :  
-    - Docker, Kubernetes et les réseaux SDN pour la résilience des systèmes conteneurisés.  
-    - AWS pour le déploiement et la gestion de services cloud.  
-
-    💬 **Demandez-moi** :  
-    - Node.js, React, Angular, Laravel... ou tout autre sujet lié à la tech !  
-
-  </div>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Je+m'appelle+Emmanuelle+TEMGOUA+;Je+suis+un+développeur+passionné+)](https://git.io/typing-svg)
+[![Profile Views](https://komarev.com/ghpvc/?username=TEMGOUAemmauelle&color=blueviolet)](https://github.com/TEMGOUAemmauelle)
 </div>
+
+## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> À propos de moi
+
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=F731CB&multiline=true&repeat=false&width=435&lines=Développeur+Full+Stack+et+SysAdmin;Passionné+par+la+tech+et+la+cybersécurité;Toujours+à+la+recherche+de+nouveaux+défis" alt="Typing SVG" /></a>
+
+Je suis un développeur passionné de logiciels, originaire du Cameroun 🇨🇲, avec une expertise en développement Full Stack et en administration système. J'aime résoudre des problèmes complexes et créer des solutions innovantes.
+
+🔭 **Je travaille actuellement sur** :  
+- Un système de messagerie sécurisé pour CAMTEL utilisant Active Directory, Snort et Graylog.  
+- Une plateforme de co-location et de covoiturage avec Angular, Laravel et Next.js.  
+
+🌱 **J'apprends actuellement** :  
+- Docker, Kubernetes et les réseaux SDN pour la résilience des systèmes conteneurisés.  
+- AWS pour le déploiement et la gestion de services cloud.  
+
+💬 **Demandez-moi** :  
+- Node.js, React, Angular, Laravel... ou tout autre sujet lié à la tech !  
+
+⚡ **Fun fact** :  
+Les capes de la Garde de Nuit dans *Game of Thrones* sont faites à partir de tapis Ikea. 😄  
+
+<table>
+<tr>
+<td>
+
+```python
+class TechWizard:
+    def __init__(self):
+        self.identity = {
+            "name": "Emmanuelle TEMGOUA",
+            "title": "Développeur Full Stack & SysAdmin",
+            "location": "🌍 Cameroun",
+            "education": "École Polytechnique de Yaoundé",
+        }
+
+    def code_philosophy(self) -> str:
+        return """
+        def life_motto():
+            while alive:
+                learn_something_new()
+                build_amazing_things()
+                help_others()
+                if tired:
+                    coffee.drink()
+                    continue
+                dream_big()
+        """
+    def get_daily_routine(self) -> list:
+        return [
+            "☕ Boire un bon café",
+            "💻 Écrire du code élégant",
+            "🔐 Sécuriser les systèmes (éthiquement)",
+            "🚀 Repousser les limites",
+            "📚 Apprendre de nouvelles technologies",
+            "🎮 Jouer à des jeux vidéo pour décompresser"
+        ]
+    def contact_me(self):
+        return {
+            "email": "temgouguethe@gmail.com",
+            "linkedin": "emmanuelle-guethe-fobanke-temgoua-8346252b1",
+            "github": "TEMGOUAemmauelle",
+            "twitter": "@GatesTems"
+        }
+```
+
+</td>
+</tr>
+</table>
 
 ## 🛠️ Mes compétences
 
