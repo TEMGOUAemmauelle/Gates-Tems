@@ -60,7 +60,7 @@
 
 ## 🐍 Mon graphe de contributions  
 <p align="center">
-  <img src="https://github.com/TEMGOUAemmauelle/TEMGOUAemmauelle/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/TEMGOUAemmauelle/TEMGOUAemmauelle/blob/output/.github/snake/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
